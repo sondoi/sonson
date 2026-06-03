@@ -1,0 +1,41 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.activityBar.location": "top",
+    "workbench.editor.untitled.labelFormat": "name",
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+    
+       "editor.selectionBackground": "#f5deb3",
+       "editor.selectionHighlightBackground": "#f5deb38c"
+    },
+    "workbench.editorAssociations": {
+        "*.db": "default",
+        "*.pem": "default",
+        "*.p12": "default"
+    },
+    "workbench.settings.applyToAllProfiles": [
+    ],
+    "editor.fontFamily": "'RictyDiminished-Regular',Consolas, 'meirio', monospace",
+    "editor.renderWhitespace": "all",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.accessibilitySupport": "off",
+    "editor.multiCursorLimit": 5000,
+    "editor.largeFileOptimizations": false,
+    "editor.pasteAs.preferences": [],
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.codeActionsOnSave": {},
+    "window.zoomLevel": 2,
+    "git.openRepositoryInParentFolders": "always",
+    "update.showReleaseNotes": false,
+    "explorer.compactFolders": false,
+    "files.associations": {
+        "Untitled-*": "markdown"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+}
